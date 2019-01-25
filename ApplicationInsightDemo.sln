@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplicationInsightDemo", "ApplicationInsightDemo\ApplicationInsightDemo.csproj", "{9923C45D-5AA5-4253-94CC-A9585A3F8AA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9923C45D-5AA5-4253-94CC-A9585A3F8AA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9923C45D-5AA5-4253-94CC-A9585A3F8AA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9923C45D-5AA5-4253-94CC-A9585A3F8AA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9923C45D-5AA5-4253-94CC-A9585A3F8AA8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1851D2DB-DDA1-4A16-9FF3-0F19230D0BA2}
+	EndGlobalSection
+EndGlobal
